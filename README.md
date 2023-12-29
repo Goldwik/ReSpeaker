@@ -1,2 +1,2 @@
 # ReSpeaker
-ReSpeaker drivers install for Ubuntu 20.04
+Install driver from ReSpeaker 2-Mics Pi HAT
